@@ -1,2 +1,2 @@
 Important *
-Have a look at it after $
+Have a look at it after ^
